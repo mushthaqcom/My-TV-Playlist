@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Cricket" group-title="",Cricket
+https://n2.dramaticreadings.com:999/hls/ten1hd.m3u8?md5=RicPppnRcb8V-IRGLfmG3Q&expires=1722093985
 #EXTINF:-1 tvg-id="Siyatha TV" group-title="",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-id="CeyFLiX" group-title="",CeyFLiX
