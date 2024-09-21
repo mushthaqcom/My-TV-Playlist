@@ -5,8 +5,6 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 https://fastchannel.mdc.akamaized.net/live_df95d60098b711ee84ce95aebe582ac2/playlist.m3u8
 #EXTINF:-1 tvg-id="Hiru TV" group-title="Hiru TV",Hiru TV
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="Siyatha TV" group-title="Ada Derana",Ada Derana
-https://youtu.be/_dQ5TXI50vA
 #EXTINF:-1 tvg-id="Swarnavahini" group-title="Swarnavahini",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8?md5=V4DL9VngAUoy50DvEztAKA&amp;expires=1721923407
 #EXTINF:-1 tvg-id="Imai TV" group-title="Imai TV",Imai TV
