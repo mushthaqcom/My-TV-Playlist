@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Siyatha TV" group-title="Siyatha TV",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="TV Derana" group-title="TV Derana",TV Derana
+https://ythls.armelin.one/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
 #EXTINF:-1 tvg-id="CeyFLiX" group-title="CeyFLiX",CeyFLiX
 https://fastchannel.mdc.akamaized.net/live_df95d60098b711ee84ce95aebe582ac2/playlist.m3u8
 #EXTINF:-1 tvg-id="Hiru TV" group-title="Hiru TV",Hiru TV
