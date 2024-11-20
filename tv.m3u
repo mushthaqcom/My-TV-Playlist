@@ -15,9 +15,9 @@ https://glb.bozztv.com/glb/ssh101/imaitv/index.m3u8
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efadcf7986aa245789/index.m3u8
 #EXTINF:-1 tvg-id="vasantham" tvg-name="Vasantham",Vasantham
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
-#EXTINF:-1 tvg-id="vasantham" tvg-name="Vasantham",Vasantham
-https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="3tamil" tvg-name="3 Tamil TV",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="kalaignarmurusu" tvg-name="Kalaignar Murusu",Kalaignar Murusu
-https:\\segment.yuppcdn.net\050522\murasu\playlist.m3u8
+#EXTINF:-1 tvg-id="abudhabisports1" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
+https:\\vo-live.cdb.cdn.orange.com\Content\Channel\AbuDhabiSportsChannel1\HLS\index.m3u8
+#EXTINF:-1 tvg-id="abudhabisports2" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
