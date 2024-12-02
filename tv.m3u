@@ -17,21 +17,3 @@ https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_aabd3d003af211efa
 https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/rewind-3600.m3u8
 #EXTINF:-1 tvg-id="3tamil" tvg-name="3 Tamil TV",3 Tamil TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="abudhabisports1" tvg-name="Abu Dhabi Sports 1",Abu Dhabi Sports 1
-https:\\vo-live.cdb.cdn.orange.com\Content\Channel\AbuDhabiSportsChannel1\HLS\index.m3u8
-#EXTINF:-1 tvg-id="abudhabisports2" tvg-name="Abu Dhabi Sports 2",Abu Dhabi Sports 2
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="dubaisports1" tvg-name="Dubai Sports 1",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dubaisports2" tvg-name="Dubai Sports 2",Dubai Sports 2
-https:\\dmitwlvvll.cdn.mgmlcdn.com\dubaisportshd\smil:dubaisportshd.smil\chunklist.m3u8
-#EXTINF:-1 tvg-id="dubaisports3" tvg-name="Dubai Sports 3",Dubai Sports 3
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="afv" tvg-name="AFV",AFV
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="afvfamily" tvg-name="AFV Family",AFV Family
-https:\\futuretoday-afv-family-2-be.samsung.wurl.tv\playlist.m3u8
-#EXTINF:-1 tvg-id="imamhusseintv3" tvg-name="Imam Hussein TV 3",Imam Hussein TV 3
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN",AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
